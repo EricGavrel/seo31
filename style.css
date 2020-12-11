@@ -129,6 +129,9 @@ figcaption{
     background: transparent;
 }
 
+#nav-link {
+    color: #fff;
+}
 
 /* header */
 .bg {
