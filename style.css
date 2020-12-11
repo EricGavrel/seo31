@@ -103,8 +103,9 @@ figcaption{
     padding: 10px;
 }
 
-.padding-L {
+.padding-3 {
     padding-left: 3rem;
+    padding-right: 3rem;
 }
 
 .font-60 {
@@ -129,9 +130,7 @@ figcaption{
     background: transparent;
 }
 
-#nav-link {
-    color: #fff;
-}
+
 
 /* header */
 .bg {
