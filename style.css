@@ -45,8 +45,17 @@ figcaption{
     padding-top: 1rem;
 }
 
+.top-bar {
+    background: #D9DBEE;
+    height: 2.8rem;
+}
+
 
 /* utilities */
+
+.img-logo {
+    max-width: 60%;   
+}
 
 .carouselImage {
     width: 200x;
