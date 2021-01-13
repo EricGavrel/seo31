@@ -3879,7 +3879,7 @@ input[type=button].btn-block {
   list-style: none;
 }
 
-.nav-link {
+.js-scroll-trigger{
   display: block;
   padding: 0.5rem 1rem;
 }
